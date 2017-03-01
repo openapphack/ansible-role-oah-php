@@ -1,0 +1,4 @@
+---
+- src: https://github.com/openapphack/ansible-role-oah-git
+  version: master
+  name: oah.git
